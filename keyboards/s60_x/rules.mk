@@ -66,4 +66,4 @@ AUDIO_ENABLE = no           # Audio output on port C6
 
 DEFAULT_FOLDER = s60_x/default
 
-LAYOUTS = 60_ansi 60_ansi_split_bs_rshift 60_iso
+LAYOUTS = 60_ansi 60_ansi_split_rshift 60_ansi_split_bs_rshift 60_iso
